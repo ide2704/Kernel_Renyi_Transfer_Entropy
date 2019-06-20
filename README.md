@@ -6,6 +6,5 @@ measure of effective connectivity based on Renyi's alpha-entropy".
 The script Main.m generates the results for the proposed method (alpha = 2) shown in Figure 2A of the paper. 
 The method itself is implemented in the function kRTE (functions\kRTE.m). 
 
-Ivan De La Pava Panche, Automatics Research Group
-Universidad Tecnologica de Pereira, Pereira - Colombia
-email: ide@utp.edu.co
+Ivan De La Pava Panche, Automatics Research Group, Universidad Tecnologica de Pereira, email: ide@utp.edu.co
+
